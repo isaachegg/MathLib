@@ -1,0 +1,11 @@
+/Users/isaachegg/Desktop/MathLib/Math/bin/Debug/net8.0/Math.deps.json
+/Users/isaachegg/Desktop/MathLib/Math/bin/Debug/net8.0/Math.dll
+/Users/isaachegg/Desktop/MathLib/Math/bin/Debug/net8.0/Math.pdb
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.AssemblyInfoInputs.cache
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.AssemblyInfo.cs
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.csproj.CoreCompileInputs.cache
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.dll
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/refint/Math.dll
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/Math.pdb
+/Users/isaachegg/Desktop/MathLib/Math/obj/Debug/net8.0/ref/Math.dll
